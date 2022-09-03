@@ -247,7 +247,7 @@ a{
     justify-content: center;
     align-items: center;
     color: #eee;
-    background: url('../img/showcase.jpg') no-repeat center center/cover;
+    background: url('img/showcase.jpg') no-repeat center center/cover;
     background-attachment: fixed;
     /*overlay*/
     background-color: rgba(0, 0, 0, 0.5);
@@ -377,7 +377,7 @@ a{
     background: #222;
     color: #fff;
     padding-bottom: 4%;
-    background: url('../img/pc1.jpg') no-repeat center center/cover;
+    background: url('img/pc1.jpg') no-repeat center center/cover;
     background-attachment: fixed;
     background-color: rgba(0, 0, 0, 0.5);
     background-blend-mode: color;
@@ -463,7 +463,7 @@ a{
     padding: 50px;
     background-color: #222;
     color: #eee;
-    background: url('../img/img3.jpg') no-repeat center center/cover;
+    background: url('img/img3.jpg') no-repeat center center/cover;
     background-attachment: fixed;
     background-color: rgba(0, 0, 0, 0.5);
     background-blend-mode: color;
@@ -580,7 +580,7 @@ a{
     color: black;
     padding: 20px;
     background: #eee;
-    background: url('../img/img4.jpg') no-repeat center center/cover;
+    background: url('img/img4.jpg') no-repeat center center/cover;
     background-attachment: fixed;
     background-color: rgba(0, 0, 0, 0.5);
     background-blend-mode: color;
@@ -643,7 +643,7 @@ a{
     color: #eee;
     padding: 30px;
     text-align: center;
-    background: url('../img/img4.jpg') no-repeat center center/cover;
+    background: url('img/img4.jpg') no-repeat center center/cover;
     background-attachment: fixed;
     background-color: rgba(0, 0, 0, 0.5);
     background-blend-mode: color;
