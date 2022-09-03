@@ -1,4 +1,37 @@
+#showcase {
+   
+    background: url('../img/showcase.jpg') no-repeat center center/cover;
+    background-attachment: fixed;
+}
 
+#clients {
+
+    background: url('../img/pc1.jpg') no-repeat center center/cover;
+    background-attachment: fixed;   
+}
+
+#product {
+
+    background: url('../img/img3.jpg') no-repeat center center/cover;
+    background-attachment: fixed;
+  
+    
+}
+
+.footer {
+
+    background: url('../img/img4.jpg') no-repeat center center/cover;
+    background-attachment: fixed;
+ 
+}
+
+#testimonials {
+
+    background: url('../img/img4.jpg') no-repeat center center/cover;
+    background-attachment: fixed;
+
+    
+}
 
 #navbar {
     height: 120px;
