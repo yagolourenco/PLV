@@ -5,42 +5,60 @@
     align-items: center;
     color: #eee;
     background: url('../img/showcase.jpg') no-repeat center center/cover;
+    background-attachment: fixed;
     /*overlay*/
     background-color: rgba(0, 0, 0, 0.5);
     background-blend-mode: color;
-    background-attachment: fixed;
 
 }
 
 #clients {
-
+    padding: 15px;
+    width: 100%;
+    background: #222;
+    color: #fff;
+    padding-bottom: 4%;
     background: url('../img/pc1.jpg') no-repeat center center/cover;
-   
+    background-attachment: fixed;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: color;
+
 }
 
 #product {
-
+    width: 100%;
+    padding: 50px;
+    background-color: #222;
+    color: #eee;
     background: url('../img/img3.jpg') no-repeat center center/cover;
     background-attachment: fixed;
-  
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: color;
     
 }
 
 .footer {
-
+    
+    color: #eee;
+    padding: 30px;
+    text-align: center;
     background: url('../img/img4.jpg') no-repeat center center/cover;
     background-attachment: fixed;
- 
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: color;
 }
 
 #testimonials {
-
+    width: 100%;
+    color: black;
+    padding: 20px;
+    background: #eee;
     background: url('../img/img4.jpg') no-repeat center center/cover;
     background-attachment: fixed;
-
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: color;
     
 }
-
 #navbar {
     height: 120px;
 }
