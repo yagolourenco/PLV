@@ -34,8 +34,11 @@
     color: #eee;
     padding: 30px;
     text-align: center;
-    background: fixed;
-    background-color: rgb(37, 37, 37);
+    background: url('../img/keyboard.jpg') no-repeat center center/cover;
+    background-attachment: fixed;
+    /*overlay*/
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: color;
     
 }
 
@@ -43,8 +46,13 @@
     width: 100%;
     color: black;
     padding: 20px;
-    background: #eee;
-    background-color: rgb(37, 37, 37);
+    
+
+    background: url('../img/keyboard.jpg') no-repeat center center/cover;
+    background-attachment: fixed;
+    /*overlay*/
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: color;
     
 }
 
